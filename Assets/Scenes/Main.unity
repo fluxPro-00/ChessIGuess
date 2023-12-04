@@ -1071,6 +1071,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2e8bab23316d1a41a7a583cc793bec7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  freeSquareMaterial: {fileID: 2100000, guid: 0de52c63d7cd95147ac1d95191e20eb9, type: 2}
+  enemySquareMaterial: {fileID: 2100000, guid: f6f662d2824ee44479a6c289ea056dba, type: 2}
+  selectorPrefab: {fileID: 1625892269204815410, guid: 3186628bc4da7964aa5f8112114a0566, type: 3}
 --- !u!4 &5265858340144294911
 Transform:
   m_ObjectHideFlags: 0
